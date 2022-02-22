@@ -1,0 +1,9 @@
+* Variables: son palabras clave que nos permiten guardar data para poder usar/invocar después en nuestro código, en console.log y tambien para asignarlos a funciones. 
+
+ * Strings: son cadenas de texto que nos sirven para describir nuestras variables y otras cosas 
+
+ * Funciones (argumentos, `return`): argumentos es lo que se le da a una función para que sepa que hacer y return es lo que js nos regresa de información despee de asignar una función o una variable 
+
+ * Declaraciones `if`: son claves que usamos en caso de que un código no procesa en cierta situación usamos if para que se ejecute un segundo cocido, como una segunda opción. 
+
+ * Valores booleanos (`true`, `false`) se usan para retorna información en forma de True o False cuando le "preguntamos" algo a JS.
